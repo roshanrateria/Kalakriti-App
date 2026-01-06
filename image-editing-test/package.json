@@ -1,0 +1,22 @@
+{
+  "name": "image-editing-test",
+  "version": "1.0.0",
+  "description": "Test project for Google GenAI image editing",
+  "type": "module",
+  "main": "test-image-editing.js",
+  "scripts": {
+    "start": "node test-image-editing.js",
+    "test": "node test-image-editing.js"
+  },
+  "keywords": [
+    "genai",
+    "image-editing",
+    "gemini"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.27.0",
+    "@google/generative-ai": "^0.21.0"
+  }
+}

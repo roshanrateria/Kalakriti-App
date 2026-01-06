@@ -1,0 +1,70 @@
+# Dependencies
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Next.js
+.next/
+out/
+
+# Production
+build/
+dist/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Database
+prisma/dev.db*
+*.db
+*.db-journal
+
+# Logs
+logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git
+.gitignore
+
+# Testing
+coverage/
+.nyc_output
+
+# Documentation
+README.md
+docs/
+*.md
+
+# Scripts
+scripts/
+
+# Deployment files
+vercel.json
+.vercel/
+AWS_*.md
+EC2_*.md
+DEPLOYMENT*.md
+*.pem
+
+# Development files
+debug-*.js
+test-*.js
+seed*.js
+check-db.js
+audit.pem
