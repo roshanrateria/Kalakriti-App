@@ -1,5 +1,5 @@
 # Kalakriti: AI-Powered Marketplace for Indian Artisans 🎨
-
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Tt2mYWJlaLE)
 > **Empowering 7M+ Indian artisans with Gemini 3 AI—voice-to-listing in 12 languages, AI photo editing, and agentic shopping. Bridging the digital divide, preserving cultural heritage.**
 
 ---
